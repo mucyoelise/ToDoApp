@@ -187,5 +187,3 @@ Everything related to the API is inside `flaskr/routes`. The following table sum
 ![PREVIEW](./preview/preview6.png)
 ![PREVIEW](./preview/preview7.png)
 ![PREVIEW](./preview/preview8.png)
-
-### Developed by Santiago de Jesús Moraga Caldera - Remy349(GitHub)
